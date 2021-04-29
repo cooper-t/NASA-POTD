@@ -1,0 +1,45 @@
+a {
+  text-decoration: none;
+  color: #212529;
+}
+
+a:hover {
+  text-decoration-color: cornflowerblue;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+.my-6 {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.mt-6 {
+  margin-top: 6rem;
+}
+
+/* Modifying Bootstrap class */
+.font-weight-light {
+  font-size: 80%;
+}
+
+.date {
+  font-size: 80%;
+}
+
+/* Icon sizing */
+.bi {
+  width: 24px;
+  height: 24px;
+}
+
+footer a {
+  color: white;
+}
+
+footer a:hover {
+  color: limegreen;
+  text-decoration: none;
+}
